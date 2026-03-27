@@ -1,3 +1,3 @@
 # Catatan cli
 
-Membuat file json untuk mencatat catan di cli.
+Membuat file json untuk mencatat catatan di cli.
